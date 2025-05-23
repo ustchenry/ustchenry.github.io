@@ -3,22 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ustchenry.github.io/publications/</loc>
-    <lastmod>2025-05-23T10:51:12+08:00</lastmod>
+    <lastmod>2024-03-06T10:51:12+08:00</lastmod>
   </url><url>
     <loc>https://ustchenry.github.io/profile/</loc>
-    <lastmod>2025-05-23T01:36:17+08:00</lastmod>
-  </url><url>
-    <loc>https://ustchenry.github.io/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://ustchenry.github.io/zh-cn/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://ustchenry.github.io/tags/"
-                />
+    <lastmod>2024-03-06T01:36:17+08:00</lastmod>
   </url><url>
     <loc>https://ustchenry.github.io/</loc>
     <xhtml:link
@@ -30,6 +18,18 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://ustchenry.github.io/"
+                />
+  </url><url>
+    <loc>https://ustchenry.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://ustchenry.github.io/zh-cn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://ustchenry.github.io/tags/"
                 />
   </url>
 </urlset>
