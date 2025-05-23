@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://ustchenry.github.io/publications/</loc>
+    <lastmod>2025-05-23T10:51:12+08:00</lastmod>
+  </url><url>
+    <loc>https://ustchenry.github.io/profile/</loc>
+    <lastmod>2025-05-23T01:36:17+08:00</lastmod>
+  </url><url>
+    <loc>https://ustchenry.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://ustchenry.github.io/zh-cn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://ustchenry.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://ustchenry.github.io/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://ustchenry.github.io/zh-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://ustchenry.github.io/"
+                />
+  </url>
+</urlset>
