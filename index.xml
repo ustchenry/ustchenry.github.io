@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Henry ツ</title>
+    <title>Yuheng Wu ツ</title>
     <link>https://ustchenry.github.io/</link>
-    <description>Recent content on Henry ツ</description>
+    <description>Recent content on Yuheng Wu ツ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="https://ustchenry.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publications</title>
       <link>https://ustchenry.github.io/publications/</link>
-      <pubDate>Wed, 06 Mar 2024 10:51:12 +0800</pubDate>
+      <pubDate>Fri, 23 May 2025 10:51:12 +0800</pubDate>
       <guid>https://ustchenry.github.io/publications/</guid>
-      <description>Cover Arts 2024 Thiol ligand-modified Au nanoparticles function as an extraordinary electrocatalyst in the reduction of nitrate to ammonia. Pre. Chem.&#xA;Patents 2024 Xi, D.; Wu, Y. and Aziz, M. An electrochemical method for electrolyte-free hydrogen peroxide production. Submitted. [PDF] Conferences 2024 $2.$ Wu, Y.; Liu, Y.; Geng, Z. and Zeng J. Engineering ligand effect and MSI in electrocatalysis. ACS Annual Conference 2024 Fall. [PDF]&#xA;$1.$ Xi, D.; Wu, Y.</description>
+      <description>Papers 2025 2024 $2.$ Wu, Y.; Kong, X.; Su, Y.; Zhao, J.; Ma, Y.; Ji, T.; Wu, D., Meng, J.; Liu, Y.; Geng, Z. and Zeng, J. Thiol Ligand-modified Au for Highly Efficient Electroreduction of Nitrate to Ammonia. Pre. Chem. 2024, 2, 112-119. [PDF]&#xA;$1.$ Wei, J.; Tang, H.; Sheng, L.; Wang, R.; Fan, M.; Wan, J.; Wu, Y.; Zhang, Z.; Zhou, S. and Zeng, J. Site-specific metal-support interaction to switch the activity of Ir single atoms for oxygen evolution reaction.</description>
     </item>
     <item>
       <title>Profile</title>
       <link>https://ustchenry.github.io/profile/</link>
-      <pubDate>Wed, 06 Mar 2024 01:36:17 +0800</pubDate>
+      <pubDate>Fri, 23 May 2025 01:36:17 +0800</pubDate>
       <guid>https://ustchenry.github.io/profile/</guid>
-      <description>Yuheng (Henry) Wu Education 2020 - 2024 Bachelor of Science, University of Science and Technology of China, Physical Chemistry (Major), Computer Science (Minor).&#xA;2023 Visiting Undergraduate, Harvard University.&#xA;2024 Visiting Undergraduate, Rice University.&#xA;2024 - ? Ph.D, Massachusetts Institute of Technology, Material Science and Engineering.&#xA;Interests Chemistry Electrochemistry Electrical energy can regulate the kinetics, thermodynamics and selectivity of chemical reactions. Electrochemical synthesis, if designed with care, can be scaled up and industrialized.</description>
+      <description>Yuheng Wu Education 2020 - 2024 Bachelor of Science, University of Science and Technology of China, Physical Chemistry (Major), Computer Science (Minor). Prof. Jie Zeng | Zeng Group (ustc.edu).&#xA;2023 Visiting Undergraduate, Harvard University. Prof. Michael Aziz | Aziz Group (harvard.edu).&#xA;2024 Visiting Undergraduate, Rice University. Prof. Haotian Wang | The &amp;ldquo;CAT&amp;rdquo; Group (rice.edu).&#xA;2024 - ? Ph.D, Massachusetts Institute of Technology (MIT), Department of Material Science and Engineering (DMSE). Prof.</description>
     </item>
   </channel>
 </rss>
